@@ -1,19 +1,14 @@
 require("dotenv").config();
 var keys = require('./javascript/keys');
 var Spotify = require('node-spotify-api');
-//added to format table 
-var cTable = require('console.table');
 var request = require('request');
 var moment = require('moment');
-
 
 
 var spotify = new Spotify({
     id: keys.spotify.id,
     secret: keys.spotify.secret
   });
-
-
 
 
 if (process.argv[2] == 'concert-this' ) {
@@ -73,13 +68,7 @@ if (process.argv[2] == 'concert-this' ) {
     });
 
 
-
-
-
-
-
-
-// If no song is provided then your program will default to "The Sign" by Ace of Base.
+// Default to "The Sign" by Ace of Base if no song provided
 } else if ( process.argv[2] == 'movie-this') {
     var movieName = process.argv.slice(3).join(" ");
 
@@ -104,11 +93,3 @@ if (process.argv[2] == 'concert-this' ) {
 } else if ( process.argv[2] == 'do-what-it-says') {
     console.log('do what it says')
 }
-   
-//  spotify.search({ type: 'track', query: 'All the Small Things' }, function(err, data) {
-//     if (err) {
-//       return console.log('Error occurred: ' + err);
-//     }
-   
-//   console.log(data); 
-//   });
