@@ -16,7 +16,11 @@ How to Use
 
 To search for data within LIRI, enter one of the following node commands: concert-this, spotify-this-song, movie-this, and do-what-it says. These commands will make an API call related to your search string.
 
-Movie-this searches the OMBD API to retrieve the movie title, release year, rating, location, language, and actors. 
+Movie-this searches the OMBD API to retrieve the movie title, release year, rating, location, language, and actors. Running this command without entering in movie information will default to information for the movie Mr. Nobody.
+
+(images/movie-this.png)
+(images/movie-this-default.png)
+
 
 Concert-this function searches the Bands in Town API to retrieve information the client put into the command line. It will log information of the artist searched, info regarding the upcoming concert, venue, location, and date.
 
