@@ -19,14 +19,21 @@ To search for data within LIRI, enter one of the following node commands: concer
 Movie-this searches the OMBD API to retrieve the movie title, release year, rating, location, language, and actors. Running this command without entering in movie information will default to information for the movie Mr. Nobody.
 
 ![Alt text](/images/movie-this.png)
-(images/movie-this-default.png)
+![Alt text](/images/movie-this-default.png)
 
 
 Concert-this function searches the Bands in Town API to retrieve information the client put into the command line. It will log information of the artist searched, info regarding the upcoming concert, venue, location, and date.
 
-Spotify-this searches the Spotify API to retrieve artist name, song name, album, and a preview link.
+![Alt text](/images/concert-this.png)
+
+Spotify-this searches the Spotify API to retrieve artist name, song name, album, and a preview link.Running this command without entering in movie information will result in default song information.
+
+![Alt text](/images/spotify-this.png)
+![Alt text](/images/spotify-this-default.png)
 
 Do-what-it-says uses the fs node package to use text in random.txt, and use it to call application commands and functions. Running do-what-it-says will run spotify-this-song for “I Want it That Way.”
+
+![Alt text](/images/do-what-it-says.png)
 
 GitHub Repository
 https://github.com/ercasale97/liri.node_app
