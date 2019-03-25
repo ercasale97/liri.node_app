@@ -13,16 +13,16 @@ var query = process.argv;
 var type = process.argv[2];
 var array = [];
 
-//Loop through and join name of arguments after file name
+//Loop, join arguements
 for (var i = 3; i < query.length; i++) {
     array.push(query[i]);
     array.push("+")
 }
 
-array.splice(-1); //Get rid of last plus sign, if left errors caused
-var finalSearch = array.join(""); //Search query joined together to form string for any query below
+array.splice(-1); 
+var finalSearch = array.join(""); 
 
-//Switch statement to determine type selected. (Ex. concert-this, movie-this, etc.)
+//Switch statement for each statement
 switch (type) {
     case 'concert-this':
         concertMe()
