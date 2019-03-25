@@ -577,3 +577,51 @@ movie-this Titanic
     Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
     Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
             
+movie-this 50 first dates
+
+
+    Title: 50 First Dates
+    Released: 2004
+    IMDB Rating: 6.8
+    Rotten Tomatos Rating: 45%
+    Country: USA
+    Language: English, Hawaiian, Mandarin, None
+    Plot: Henry Roth is a man afraid of commitment up until he meets the beautiful Lucy. They hit it off and Henry think he's finally found the girl of his dreams, until he discovers she has short-term memory loss and forgets him the next day.
+    Actors: Adam Sandler, Drew Barrymore, Rob Schneider, Sean Astin
+            
+movie-this 50 first dates
+
+
+    Title: 50 First Dates
+    Released: 2004
+    IMDB Rating: 6.8
+    Rotten Tomatos Rating: 45%
+    Country: USA
+    Language: English, Hawaiian, Mandarin, None
+    Plot: Henry Roth is a man afraid of commitment up until he meets the beautiful Lucy. They hit it off and Henry think he's finally found the girl of his dreams, until he discovers she has short-term memory loss and forgets him the next day.
+    Actors: Adam Sandler, Drew Barrymore, Rob Schneider, Sean Astin
+            
+movie-this
+
+
+    Title: Mr. Nobody
+    Released: 2009
+    IMDB Rating: 7.8
+    Rotten Tomatos Rating: 67%
+    Country: Belgium, Germany, Canada, France, USA, UK
+    Language: English, Mohawk
+    Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+    Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+            
+movie-this 50 first dates
+
+
+    Title: 50 First Dates
+    Released: 2004
+    IMDB Rating: 6.8
+    Rotten Tomatos Rating: 45%
+    Country: USA
+    Language: English, Hawaiian, Mandarin, None
+    Plot: Henry Roth is a man afraid of commitment up until he meets the beautiful Lucy. They hit it off and Henry think he's finally found the girl of his dreams, until he discovers she has short-term memory loss and forgets him the next day.
+    Actors: Adam Sandler, Drew Barrymore, Rob Schneider, Sean Astin
+            
