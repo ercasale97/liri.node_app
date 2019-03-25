@@ -18,7 +18,7 @@ To search for data within LIRI, enter one of the following node commands: concer
 
 Movie-this searches the OMBD API to retrieve the movie title, release year, rating, location, language, and actors. Running this command without entering in movie information will default to information for the movie Mr. Nobody.
 
-(images/movie-this.png)
+https://github.com/ercasale97/liri.node_app/blob/master/images/movie-this.png
 (images/movie-this-default.png)
 
 
